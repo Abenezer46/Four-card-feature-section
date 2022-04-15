@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL here](https://column-preview-card-component.pages.dev/)
+- Solution URL: [Solution URL here](https://four-card-feature-section-ab.pages.dev/)
 
 ## My process
 
